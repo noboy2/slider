@@ -65,7 +65,7 @@ a:active{}
 .aNext{background:url(img/next.png) no-repeat;right:25px;}
 .aNext:hover{background:url(img/nextOn.png)}
 
-.subTitle{width: 898px; height: 20px;line-height:20px; text-align: center; position: absolute;left: 0;top: 568px;}
+.subTitle{width: 898px; height: 20px;line-height:20px; text-align: center; position: absolute;left: 0;top: 568px; z-index: 99;}
 .subTitle a{color:#000}
 .subTitle a:hover{color:#f60;}
 
